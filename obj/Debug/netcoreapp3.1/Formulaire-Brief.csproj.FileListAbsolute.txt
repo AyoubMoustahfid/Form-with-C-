@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Formulaire-Brief\bin\Debug\netcoreapp3.1\Formulaire-Brief.exe
+C:\Users\Admin\source\repos\Formulaire-Brief\bin\Debug\netcoreapp3.1\Formulaire-Brief.deps.json
+C:\Users\Admin\source\repos\Formulaire-Brief\bin\Debug\netcoreapp3.1\Formulaire-Brief.runtimeconfig.json
+C:\Users\Admin\source\repos\Formulaire-Brief\bin\Debug\netcoreapp3.1\Formulaire-Brief.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Formulaire-Brief\bin\Debug\netcoreapp3.1\Formulaire-Brief.dll
+C:\Users\Admin\source\repos\Formulaire-Brief\bin\Debug\netcoreapp3.1\Formulaire-Brief.pdb
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire_Brief.Form1.resources
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.dll
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.pdb
+C:\Users\Admin\source\repos\Formulaire-Brief\obj\Debug\netcoreapp3.1\Formulaire-Brief.genruntimeconfig.cache
